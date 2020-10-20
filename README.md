@@ -5,6 +5,7 @@
 * Graphics: Radeon RX 580 / 8 GB
 * Wifi: EZCAST wireless USB wifi adapter
 * Opencore: 0.6.1
+* MacOS: 10.15.7
 
 ## Notes
 * Secure Vault is enabled so each change of any file inside `./EFI` folder needs to signed again by running the script inside `./Utilities/sign.command`
